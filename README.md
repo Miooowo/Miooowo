@@ -21,5 +21,6 @@
   <source media="(prefers-color-scheme: light)" srcset="./profile/wakatime-light.svg">
   <img alt="GitHub WAKATIME" src="./profile/wakatime-light.svg">
 </div>
-
-
+  
+### Profile Views
+![](https://count.getloli.com/@:Miooowo?theme=rule34)
