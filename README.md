@@ -1,16 +1,21 @@
 # Miooowo
 
-> 自动生成并提交 GitHub Readme Stats 卡片到本仓库（个人资料仓库），并从这里直接嵌入显示。
-
 ## GitHub Stats
 
-![Stats](./profile/stats.svg)
+<div align="center">
 
-## Top Languages
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile/stats-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./profile/stats-light.svg">
+  <img alt="GitHub Stats" src="./profile/stats-light.svg">
+</picture>
 
-![Top Languages](./profile/top-langs.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile/top-langs-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./profile/top-langs-light.svg">
+  <img alt="GitHub Top Languages" src="./profile/top-langs-light.svg">
+</picture>
 
-## Pinned
+</div>
 
-![Pinned](./profile/pin.svg)
 
