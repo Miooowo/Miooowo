@@ -47,6 +47,22 @@ jobs:
           path: profile/top-langs-dark.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: 生成wakatime统计卡片（明亮主题）
+        uses: soulteary/github-readme-stats-action@v1.0.0
+        with:
+          card: wakatime
+          options: 'username=${{ github.repository_owner }}&theme=vue'
+          path: profile/wakatime-light.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: 生成wakatime统计卡片（暗黑主题）
+        uses: soulteary/github-readme-stats-action@v1.0.0
+        with:
+          card: wakatime
+          options: 'username=${{ github.repository_owner }}&theme=react'
+          path: profile/wakatime-dark.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
       - name: 提交更新的卡片
         run: |
           git config user.name "github-actions[bot]"

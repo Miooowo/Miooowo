@@ -16,6 +16,10 @@
   <img alt="GitHub Top Languages" src="./profile/top-langs-light.svg">
 </picture>
 
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="./profile/wakatime-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./profile/wakatime-light.svg">
+  <img alt="GitHub WAKATIME" src="./profile/wakatime-light.svg">
 </div>
 
 
