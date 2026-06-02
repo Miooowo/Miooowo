@@ -1,8 +1,8 @@
 
       <svg
         width="495"
-        height="295"
-        viewBox="0 0 495 295"
+        height="320"
+        viewBox="0 0 495 320"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
         role="img"
@@ -150,11 +150,11 @@
           <g transform="translate(0, 0)">
       <g class="stagger" style="animation-delay: 450ms" transform="translate(25, 0)">
         <text class="stat bold" y="12.5">C#:</text>
-        <text class="stat" x="350" y="12.5" data-testid="lang-name">6 hrs 22 mins</text>
+        <text class="stat" x="350" y="12.5" data-testid="lang-name">6 hrs 7 mins</text>
         
     <svg width="220" x="110" y="4">
       <rect rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#273849"></rect>
-      <svg data-testid="lang-progress" width="42.82%">
+      <svg data-testid="lang-progress" width="38.91%">
         <rect
             height="8"
             fill="#41b883"
@@ -169,11 +169,11 @@
     </g><g transform="translate(0, 25)">
       <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
         <text class="stat bold" y="12.5">Other:</text>
-        <text class="stat" x="350" y="12.5" data-testid="lang-name">3 hrs 20 mins</text>
+        <text class="stat" x="350" y="12.5" data-testid="lang-name">3 hrs 32 mins</text>
         
     <svg width="220" x="110" y="4">
       <rect rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#273849"></rect>
-      <svg data-testid="lang-progress" width="22.38%">
+      <svg data-testid="lang-progress" width="22.53%">
         <rect
             height="8"
             fill="#41b883"
@@ -188,11 +188,11 @@
     </g><g transform="translate(0, 50)">
       <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
         <text class="stat bold" y="12.5">Markdown:</text>
-        <text class="stat" x="350" y="12.5" data-testid="lang-name">2 hrs 6 mins</text>
+        <text class="stat" x="350" y="12.5" data-testid="lang-name">2 hrs 52 mins</text>
         
     <svg width="220" x="110" y="4">
       <rect rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#273849"></rect>
-      <svg data-testid="lang-progress" width="14.14%">
+      <svg data-testid="lang-progress" width="18.27%">
         <rect
             height="8"
             fill="#41b883"
@@ -207,11 +207,11 @@
     </g><g transform="translate(0, 75)">
       <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
         <text class="stat bold" y="12.5">XML:</text>
-        <text class="stat" x="350" y="12.5" data-testid="lang-name">1 hr 32 mins</text>
+        <text class="stat" x="350" y="12.5" data-testid="lang-name">1 hr 39 mins</text>
         
     <svg width="220" x="110" y="4">
       <rect rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#273849"></rect>
-      <svg data-testid="lang-progress" width="10.33%">
+      <svg data-testid="lang-progress" width="10.53%">
         <rect
             height="8"
             fill="#41b883"
@@ -230,7 +230,7 @@
         
     <svg width="220" x="110" y="4">
       <rect rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#273849"></rect>
-      <svg data-testid="lang-progress" width="8.44%">
+      <svg data-testid="lang-progress" width="8.00%">
         <rect
             height="8"
             fill="#41b883"
@@ -264,7 +264,7 @@
     </g><g transform="translate(0, 150)">
       <g class="stagger" style="animation-delay: 1350ms" transform="translate(25, 0)">
         <text class="stat bold" y="12.5">Godot Resource:</text>
-        <text class="stat" x="350" y="12.5" data-testid="lang-name">4 mins</text>
+        <text class="stat" x="350" y="12.5" data-testid="lang-name">3 mins</text>
         
     <svg width="220" x="110" y="4">
       <rect rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#273849"></rect>
@@ -282,7 +282,7 @@
       </g>
     </g><g transform="translate(0, 175)">
       <g class="stagger" style="animation-delay: 1500ms" transform="translate(25, 0)">
-        <text class="stat bold" y="12.5">Git Config:</text>
+        <text class="stat bold" y="12.5">INI:</text>
         <text class="stat" x="350" y="12.5" data-testid="lang-name">1 min</text>
         
     <svg width="220" x="110" y="4">
@@ -301,7 +301,7 @@
       </g>
     </g><g transform="translate(0, 200)">
       <g class="stagger" style="animation-delay: 1650ms" transform="translate(25, 0)">
-        <text class="stat bold" y="12.5">Text:</text>
+        <text class="stat bold" y="12.5">Git Config:</text>
         <text class="stat" x="350" y="12.5" data-testid="lang-name">1 min</text>
         
     <svg width="220" x="110" y="4">
@@ -313,6 +313,25 @@
             rx="5" ry="5" x="0" y="0"
             class="lang-progress"
             style="animation-delay: 1950ms;"
+        />
+      </svg>
+    </svg>
+  
+      </g>
+    </g><g transform="translate(0, 225)">
+      <g class="stagger" style="animation-delay: 1800ms" transform="translate(25, 0)">
+        <text class="stat bold" y="12.5">Text:</text>
+        <text class="stat" x="350" y="12.5" data-testid="lang-name">1 min</text>
+        
+    <svg width="220" x="110" y="4">
+      <rect rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#273849"></rect>
+      <svg data-testid="lang-progress" width="2.00%">
+        <rect
+            height="8"
+            fill="#41b883"
+            rx="5" ry="5" x="0" y="0"
+            class="lang-progress"
+            style="animation-delay: 2100ms;"
         />
       </svg>
     </svg>
